@@ -206,12 +206,12 @@ python pipelines/run_pipeline.py
 
 ---
 
+
 ## 👨‍💻 Autor
 
-Projeto desenvolvido para gestão inteligente de remessas e serviços técnicos.
+Ubirajara Rodrigo Martins 
+https://github.com/UbirajaraCastro87/ubirajaraCastro
 
 ---
 
-## 📄 Licença
-
-Este projeto pode ser utilizado para fins educacionais e comerciais.
+<img width="1536" height="1024" alt="ChatGPT Image Apr 17, 2026, 02_41_23 PM" src="https://github.com/user-attachments/assets/05c41bbd-56ad-47dd-ba44-57466b8543f1" />
